@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.1.1] - 2026-05-21
+
+## What's Changed
+
+### Other Changes
+- Update translation.ts (eead749)
+
+**Full Changelog**: https://github.com/ler-five/dynamic-weather-card/compare/v0.1.0...v0.1.1
+
+
 ## [v0.1.0] - 2026-05-21
 
 ## What's Changed
