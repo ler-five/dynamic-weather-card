@@ -7,7 +7,7 @@ import es from './locales/es/translation';
 import it from './locales/it/translation';
 import sk from './locales/sk/translation';
 import hu from './locales/hu/translation';
-import hu from './locales/zh/translation';
+import zh from './locales/zh/translation';
 import type { Translation, SupportedLanguage } from './types';
 
 const translations: Record<SupportedLanguage, Translation> = {
